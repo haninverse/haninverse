@@ -28,11 +28,12 @@ I enjoy turning ideas into thoughtful interfaces and functional solutions.
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top"></td>
-<td width="50%" align="right" valign="top">
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
+<td width="34%" align="right" valign="top">
 <a href="https://github.com/haninverse/qitaf-recipe-website">
-<img src="https://raw.githubusercontent.com/haninverse/qitaf-recipe-website/main/qitaf-cover.png" alt="Qitaf original recipe website cover" width="400" /><br/>
-<img src="./assets/qitaf-compact-card.svg" alt="Qitaf | قطاف — personal Arabic recipe website UI/UX project. Click to view the GitHub repository." width="400" />
+<img src="https://raw.githubusercontent.com/haninverse/qitaf-recipe-website/main/qitaf-cover.png" alt="Qitaf original recipe website cover" width="100%" /><br/>
+<img src="./assets/qitaf-compact-card.svg" alt="Qitaf | قطاف — personal Arabic recipe website UI/UX project. Click to view the GitHub repository." width="100%" />
 </a>
 </td>
 </tr>
