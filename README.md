@@ -26,15 +26,9 @@ I enjoy turning ideas into thoughtful interfaces and functional solutions.
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"></td>
-<td width="33%" valign="top"></td>
-<td width="34%" align="right" valign="top">
-<a href="https://github.com/haninverse/qitaf-recipe-website">
-<img src="https://raw.githubusercontent.com/haninverse/qitaf-recipe-website/main/qitaf-cover.png" alt="Qitaf original recipe website cover" width="100%" /><br/>
-<img src="./assets/qitaf-compact-card.svg" alt="Qitaf | قطاف — personal Arabic recipe website UI/UX project. Click to view the GitHub repository." width="100%" />
-</a>
-</td>
-</tr>
-</table>
+<table width="100%"><tr>
+<td width="25%" valign="top"><a href="https://github.com/haninverse/qitaf-recipe-website"><img src="./assets/qitaf-grid-card.svg" alt="Qitaf | قطاف — click to open project repository" width="100%" /></a></td>
+<td width="25%" valign="top"><a href="https://github.com/haninverse/sanad-ai-academic-advisor"><img src="./assets/sanad-grid-card.svg" alt="Sanad | سند — click to open project repository" width="100%" /></a></td>
+<td width="25%" valign="top"></td>
+<td width="25%" valign="top"></td>
+</tr></table>
