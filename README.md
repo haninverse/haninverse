@@ -6,9 +6,7 @@
 
 <br/>
 
-## ✦ A Little About Me
-
-<table><tr><td width="57%" valign="middle">
+<img src="./assets/about-heading.svg" alt="A Little About Me" width="100%" />
 
 ### Hi, I'm Hanin! 💜
 
@@ -16,14 +14,8 @@ A Software Engineering student with a passion for **UI/UX design** and building 
 
 I enjoy turning ideas into thoughtful interfaces and functional solutions.
 
-</td><td width="43%" valign="middle">
+<br/>
 
-<img src="./assets/pixel-cat.svg" alt="Pixel-art cat looking out over a purple moonlit city" width="100%" />
-
-</td></tr></table>
-
----
-
-## ✦ Tech & Design Toolkit
+<img src="./assets/toolkit-heading.svg" alt="Tech & Design Toolkit" width="100%" />
 
 <img src="./assets/toolkit.svg" alt="Development and Design toolkit in two purple cards" width="100%" />
