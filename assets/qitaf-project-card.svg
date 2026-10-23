@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="760" viewBox="0 0 620 760">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#29263f"/><stop offset="1" stop-color="#171725"/></linearGradient><linearGradient id="btn"><stop stop-color="#9877e7"/><stop offset="1" stop-color="#b79bff"/></linearGradient></defs>
+<rect x="2" y="2" width="616" height="756" rx="28" fill="url(#bg)" stroke="#4b416d" stroke-width="2"/>
+<rect x="30" y="28" width="183" height="38" rx="19" fill="#2d4938"/><text x="48" y="53" font-family="Arial,sans-serif" font-size="18" fill="#c2f4c9">✦ Personal Project</text>
+<rect x="440" y="28" width="150" height="38" rx="19" fill="#373253"/><text x="460" y="53" font-family="Arial,sans-serif" font-size="18" fill="#ddd0ff">UI/UX Design</text>
+<text x="32" y="127" font-family="Arial,sans-serif" font-size="43" font-weight="bold" fill="#f8f6ff">Qitaf | قطاف</text>
+<text x="32" y="169" font-family="Arial,sans-serif" font-size="23" fill="#c5c0d8">Recipe Website UI/UX Design</text>
+<g font-family="Arial,sans-serif" font-size="21" fill="#c7c2d8"><text x="32" y="223">A personal UI/UX design project for an</text><text x="32" y="254">Arabic recipe-sharing website. Designed</text><text x="32" y="285">in Figma with intuitive recipe discovery,</text><text x="32" y="316">favorites, and interactive components.</text></g>
+<g font-family="Arial,sans-serif" font-size="19" fill="#ddd8f1"><g fill="#b79bff"><text x="34" y="383">⌕</text><text x="325" y="383">▤</text><text x="34" y="430">♡</text><text x="325" y="430">＋</text><text x="34" y="477">♙</text><text x="325" y="477">♧</text></g><text x="72" y="383">Recipe discovery</text><text x="361" y="383">Recipe details</text><text x="72" y="430">Favorite recipes</text><text x="361" y="430">Recipe submission</text><text x="72" y="477">User profiles</text><text x="361" y="477">Account creation</text></g>
+<line x1="30" y1="512" x2="590" y2="512" stroke="#48405e"/>
+<text x="32" y="553" font-family="Arial,sans-serif" font-size="20" fill="#bbb5d4">Tools &amp; Design</text>
+<g font-family="Arial,sans-serif" font-size="17" fill="#e5ddff"><rect x="30" y="573" width="92" height="42" rx="21" fill="#373154"/><text x="47" y="600">Figma</text><rect x="132" y="573" width="137" height="42" rx="21" fill="#373154"/><text x="148" y="600">UI/UX Design</text><rect x="279" y="573" width="130" height="42" rx="21" fill="#373154"/><text x="297" y="600">Arabic RTL</text><rect x="30" y="625" width="241" height="42" rx="21" fill="#373154"/><text x="47" y="652">Interactive Components</text></g>
+<rect x="30" y="690" width="264" height="48" rx="15" fill="url(#btn)"/><text x="77" y="721" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#211a38">↗ View on Figma</text><rect x="308" y="690" width="282" height="48" rx="15" fill="#2d2942" stroke="#544775"/><text x="346" y="721" font-family="Arial,sans-serif" font-size="20" fill="#f0eaff">↗ View Repository</text>
+</svg>
