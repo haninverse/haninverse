@@ -8,7 +8,7 @@
 
 <img src="./assets/about-heading.svg" alt="A Little About Me" width="100%" />
 
-### Hi, I'm Hanin! 💜
+### Hi, I'm Hanin! 
 
 A Software Engineering student with a passion for **UI/UX design** and building meaningful digital experiences.
 
