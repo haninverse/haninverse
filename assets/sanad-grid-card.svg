@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="690" viewBox="0 0 520 690">
+<rect x="3" y="3" width="514" height="684" rx="19" fill="#101632" stroke="#49418c" stroke-width="5"/>
+<g font-family="monospace">
+<rect x="22" y="25" width="248" height="39" rx="17" fill="#232645" stroke="#49418c" stroke-width="2"/><text x="37" y="51" fill="#bda7ff" font-size="20">✦ Academic Project</text>
+<rect x="319" y="25" width="177" height="39" rx="17" fill="#262149" stroke="#49418c"/><text x="331" y="51" fill="#bda7ff" font-size="18">Bubble App</text>
+<text x="24" y="133" fill="#bda7ff" font-size="42" font-weight="bold">Sanad | سند</text>
+<path d="M23 158H497" stroke="#403b83" stroke-width="3"/>
+<text x="25" y="207" font-size="21" fill="#d9d3f8">AI academic guidance for</text><text x="25" y="239" font-size="21" fill="#d9d3f8">PSAU Computer Science students.</text><text x="25" y="271" font-size="21" fill="#d9d3f8">College reference files help</text><text x="25" y="303" font-size="21" fill="#d9d3f8">improve answer relevance.</text>
+<path d="M23 397H497" stroke="#403b83" stroke-width="2"/>
+<text x="26" y="437" font-size="19" fill="#bda7ff">✦ Bubble</text><text x="269" y="437" font-size="19" fill="#bda7ff">✦ AI API</text><text x="26" y="482" font-size="19" fill="#bda7ff">✦ Academic Data</text><text x="269" y="482" font-size="19" fill="#bda7ff">✦ UI/UX Design</text>
+<path d="M23 567H497" stroke="#403b83" stroke-width="2"/>
+<rect x="23" y="598" width="474" height="65" rx="14" fill="#49418c" stroke="#a99cf6" stroke-width="3"/>
+<text x="94" y="641" font-size="27" fill="#e7ddff" font-weight="bold">View Repository ↗</text>
+</g></svg>
