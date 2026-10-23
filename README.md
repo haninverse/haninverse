@@ -29,9 +29,9 @@ I enjoy turning ideas into thoughtful interfaces and functional solutions.
 <div align="center">
 
 <a href="https://github.com/haninverse/qitaf-recipe-website">
-<img src="https://raw.githubusercontent.com/haninverse/qitaf-recipe-website/main/qitaf-cover.png" alt="Qitaf original recipe website cover" width="440" />
+<img src="https://raw.githubusercontent.com/haninverse/qitaf-recipe-website/main/qitaf-cover.png" alt="Qitaf original recipe website cover" width="400" />
 <br/>
-<img src="./assets/qitaf-compact-card.svg" alt="Qitaf | قطاف — personal Arabic recipe website UI/UX project. Click to view the GitHub repository." width="440" />
+<img src="./assets/qitaf-compact-card.svg" alt="Qitaf | قطاف — personal Arabic recipe website UI/UX project. Click to view the GitHub repository." width="400" />
 </a>
 
 </div>
