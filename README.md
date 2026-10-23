@@ -26,10 +26,4 @@ I enjoy turning ideas into thoughtful interfaces and functional solutions.
 
 ## ✦ Tech & Design Toolkit
 
-| Development | Design |
-| :--- | :--- |
-| Java | Figma |
-| Python | UI Design |
-| SQL | Wireframing |
-| Android Studio | Prototyping |
-| UML | User Flows |
+<img src="./assets/toolkit.svg" alt="Development and Design toolkit in two purple cards" width="100%" />
