@@ -30,5 +30,5 @@ I enjoy turning ideas into thoughtful interfaces and functional solutions.
 <td width="25%" valign="top"><a href="https://github.com/haninverse/qitaf-recipe-website"><img src="./assets/qitaf-grid-card.svg" alt="Qitaf | قطاف — click to open project repository" width="100%" /></a></td>
 <td width="25%" valign="top"><a href="https://github.com/haninverse/sanad-ai-academic-advisor"><img src="./assets/sanad-grid-card.svg" alt="Sanad | سند — click to open project repository" width="100%" /></a></td>
 <td width="25%" valign="top"><a href="https://github.com/haninverse/scholarshipsystem"><img src="./assets/scholarship-grid-card.svg" alt="Scholarship System — Java, Maven and JUnit 5. Click to open the repository." width="100%" /></a></td>
-<td width="25%" valign="top"></td>
+<td width="25%" valign="top"><a href="https://github.com/haninverse/Al-Sadeeq-Al-Murshed"><img src="./assets/murshed-grid-card.svg" alt="Al-Sadeeq Al-Murshed | الصديق المرشد — interactive UI/UX prototype. Click to open the repository." width="100%" /></a></td>
 </tr></table>
