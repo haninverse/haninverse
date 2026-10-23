@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="475" viewBox="0 0 860 475">
+<rect width="860" height="475" rx="22" fill="#101632" stroke="#49418c" stroke-width="5"/>
+<g font-family="monospace">
+<rect x="28" y="24" width="195" height="34" rx="15" fill="#21383a" stroke="#49418c"/><text x="43" y="47" fill="#bda7ff" font-size="19">✦ Personal Project</text>
+<rect x="674" y="24" width="158" height="34" rx="15" fill="#262149" stroke="#49418c"/><text x="691" y="47" fill="#bda7ff" font-size="19">UI/UX Design</text>
+<text x="33" y="118" fill="#bda7ff" font-size="45" font-weight="bold">Qitaf | قطاف</text>
+<path d="M32 138 H828" stroke="#403b83" stroke-width="3"/>
+<text x="34" y="179" fill="#d9d3f8" font-size="22">Arabic recipe-sharing website UI/UX concept</text>
+<text x="34" y="212" fill="#d9d3f8" font-size="21">focused on discovery, favorites, and sharing.</text>
+<g font-size="19" fill="#bda7ff"><text x="35" y="268">✦ Figma</text><text x="232" y="268">✦ Arabic RTL</text><text x="470" y="268">✦ Interactive Components</text></g>
+<path d="M32 293 H828" stroke="#403b83" stroke-width="2"/>
+<text x="35" y="332" font-size="20" fill="#bda7ff">↗ View the full project on GitHub</text>
+<rect x="30" y="354" width="800" height="88" rx="17" fill="#49418c" stroke="#a99cf6" stroke-width="3"/>
+<text x="248" y="410" fill="#e7ddff" font-size="32" font-weight="bold">View Repository ↗</text>
+</g></svg>
