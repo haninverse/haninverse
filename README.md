@@ -22,25 +22,16 @@ I enjoy turning ideas into thoughtful interfaces and functional solutions.
 
 <br/>
 
+<img src="./assets/featured-heading.svg" alt="Featured Projects" width="100%" />
+
+<br/>
+
 <div align="center">
 
-<h2>✦ Featured Projects ✦</h2>
-
-<table>
-<tr>
-<td width="48%" valign="middle">
 <a href="https://github.com/haninverse/qitaf-recipe-website">
-<img src="https://raw.githubusercontent.com/haninverse/qitaf-recipe-website/main/qitaf-cover.png" alt="Qitaf original project cover" width="100%" />
+<img src="https://raw.githubusercontent.com/haninverse/qitaf-recipe-website/main/qitaf-cover.png" alt="Qitaf original recipe website cover" width="440" />
+<br/>
+<img src="./assets/qitaf-compact-card.svg" alt="Qitaf | قطاف — personal Arabic recipe website UI/UX project. Click to view the GitHub repository." width="440" />
 </a>
-</td>
-<td width="52%" valign="middle">
-<img src="./assets/qitaf-project-card.svg" alt="Qitaf project details — UI/UX design, recipe features, Figma and repository" width="100%" />
-</td>
-</tr>
-</table>
-
-<a href="https://www.figma.com/design/mIpG0Sjy92SWItOHPIVM6O/Qitaf-%7C-%D9%82%D8%B7%D8%A7%D9%81-%E2%80%94-Recipe-Website-UI-UX-Design?node-id=1-296&t=7nb5f7F5qvBtylIh-1"><strong>✦ View on Figma ↗</strong></a>
-&nbsp;&nbsp; · &nbsp;&nbsp;
-<a href="https://github.com/haninverse/qitaf-recipe-website"><strong>↗ Project Repository</strong></a>
 
 </div>
